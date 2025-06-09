@@ -10,7 +10,7 @@ tasks limited to 8
 
 # About
 This project helped me understand element manipulation through javascript. It help me understand dynamic designs and animations
-as well as suiable UI for users. This project made it much easier for me to add, remove and manipulate many elements rather than using
+as well as suitable UI for users. This project made it much easier for me to add, remove and manipulate many elements rather than using
 HTML which would make the process much lengthier.
 
 # Programming languages used:
